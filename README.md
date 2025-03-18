@@ -1,3 +1,4 @@
+This is a simple Banking App that simulates users' Carrying out a Transaction.
 def Show_balance(balance):
     print("***************************")
     print(f"Your balance is ${balance:.2f}")
